@@ -1,0 +1,46 @@
+html {
+    font-size: 67.5%;
+}
+
+body {
+    width: 85%;
+    border: 2px solid red;
+    margin: 0 auto;
+}
+
+.nav-bar {
+    display: flex;
+    align-items: center;
+}
+
+.nav-links {
+    margin-left: 600px;
+    font-family:'Montserrat', sans-serif;;
+}
+
+.nav-bar a {
+    font-size: 1.8rem;
+    padding: 15px;
+    text-decoration: none;
+    color: black;
+
+}
+
+a:hover {
+    color: #f2a22c;
+}
+
+.container {
+    font-family: 'Montserrat';
+    text-transform: uppercase;
+    display: flex;
+    margin: 0 auto;
+    border: 2px solid yellow;
+    margin-top: 50px;;
+}
+
+.header {
+    display: flex;
+    margin: 0 auto;
+    font-size: 2rem;
+}
